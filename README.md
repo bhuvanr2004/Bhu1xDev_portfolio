@@ -107,6 +107,9 @@ A responsive college website built using React with reusable components and mode
 
 ### Home
 <img width="1901" height="985" alt="home" src="https://github.com/user-attachments/assets/3e79bcb2-9f37-443c-b819-f6c6f3c2f963" />
+### About Me
+<img width="1895" height="982" alt="about me" src="https://github.com/user-attachments/assets/f7c9c034-467d-41f1-acd9-18efde1cdc04" />
+
 
 
 
