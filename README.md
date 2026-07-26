@@ -106,7 +106,9 @@ A responsive college website built using React with reusable components and mode
 ## 📸 Screenshots
 
 ### Home
-![Home](images/bg-new2.png)
+<img width="1901" height="985" alt="home" src="https://github.com/user-attachments/assets/3e79bcb2-9f37-443c-b819-f6c6f3c2f963" />
+
+
 
 ### Projects
 - Organ Transplantation System
