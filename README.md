@@ -38,8 +38,6 @@ This portfolio represents my journey as a **Python Full Stack Developer**. It is
 ### Libraries
 - Font Awesome
 
-### Other
-- Google Apps Script (Contact Form)
 
 ---
 
